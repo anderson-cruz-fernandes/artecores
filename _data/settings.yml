@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
+title: Arte & Cores
 description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+email: envieparaanderson@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
-- {name: Contact, url: '#contact'}
+- {name: Sobre Nós, url: '#about-me'}
+- {name: Produtos, url: '#work'}
+- {name: Clientes, url: '#clients'}
+- {name: Contato, url: '#contact'}
 
 #-------------------------------
 # SEO Section
