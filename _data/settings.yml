@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
+title: Arte & Cores
 description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+email: envieparaanderson@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
-- {name: Contact, url: '#contact'}
+- {name: Sobre Nós, url: '#about-me'}
+- {name: Produtos, url: '#work'}
+- {name: Clientes, url: '#clients'}
+- {name: Contato, url: '#contact'}
 
 #-------------------------------
 # SEO Section
@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Serviços Gráficos, Convites, Imãs de Geladeira, Etiquetas, Porta Documentos, Receituários Médicos e Odontológicos, Envelopes e Folhas Timbradas, Pastas de Arquivo p/ Escritório.'
+  rel-author: 'anderson-cruz-fernandes.github.io'
+  rel-publisher: 'anderson-cruz-fernandes.github.io'
 
 #-------------------------------
 # Google Analytics Section
@@ -59,7 +59,7 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Convites de Casamento, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
