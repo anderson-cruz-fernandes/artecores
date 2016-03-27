@@ -1,0 +1,6 @@
+cores-gb.jpg
+tamanho 1000x482
+
+posição
+x:108
+y:128
