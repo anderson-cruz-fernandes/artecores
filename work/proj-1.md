@@ -4,22 +4,11 @@ title: Typo International Design Talks Stuff
 
 ![Typo International](assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Galeria formada por modelos de convites modernos para quem sonha em um casamento mais descolado.
+Modelos confeccionados em papéis foscos e brilhantes (preto, prata, dourado estão em alta), nacionais e importados, com impressões exclusivas e MUITA criatividade na confecção do convite.
 
 ![Typo International](assets/img/work/proj-1/img2.jpg)
 ![Typo International](assets/img/work/proj-1/img3.jpg)
 ![Typo International](assets/img/work/proj-1/img4.jpg)
 ![Typo International](assets/img/work/proj-1/img5.jpg)
 ![Typo International](assets/img/work/proj-1/img6.jpg)
-![Typo International](assets/img/work/proj-1/img7.jpg)
-![Typo International](assets/img/work/proj-1/img8.jpg)
-![Typo International](assets/img/work/proj-1/img9.jpg)
-![Typo International](assets/img/work/proj-1/img10.jpg)
-![Typo International](assets/img/work/proj-1/img11.jpg)
-![Typo International](assets/img/work/proj-1/img12.jpg)
-![Typo International](assets/img/work/proj-1/img13.jpg)
-![Typo International](assets/img/work/proj-1/img14.jpg)
-![Typo International](assets/img/work/proj-1/img15.jpg)
-![Typo International](assets/img/work/proj-1/img16.jpg)
-![Typo International](assets/img/work/proj-1/img17.jpg)
-![Typo International](assets/img/work/proj-1/img18.jpg)
